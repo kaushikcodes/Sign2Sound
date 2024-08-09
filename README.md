@@ -4,3 +4,6 @@ Sign2Sound is a device that uses computer vision and machine learning to transla
 The machine learning algorithm that we use to classify our image data is LDA. LDA or Linear Discriminative Analysis is a self-supervised machine learning model that is ideal for image based multi-class classification problems. After weeks of data collection, data augmentation, and model training, we were able to attain an accuracy of over 88.5%. I have attached the confusion matrix of our model below:
 
 ![Confusion Matrix](https://github.com/kaushikcodes/Sign2Sound/blob/main/lda-confusion-matrix.jpg)
+
+
+[YouTube demo link](https://www.youtube.com/watch?v=mTUgoGpuNCI) 
